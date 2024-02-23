@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "exportdatatoexcel",
+    "slug": "exportdatatoexcel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "exportdatatoexcel"
+}
